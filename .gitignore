@@ -1,4 +1,3 @@
-.workbuddy-ai/
 # Gradle / Android
 .gradle/
 build/
@@ -15,3 +14,5 @@ captures/
 node_modules/
 .DS_Store
 *.log
+
+.workbuddy-ai/
