@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="simpleinsta_bg">#FFFDFDFC</color>
+    <color name="simpleinsta_icon_bg">#FF111111</color>
+    <color name="simpleinsta_bg_dark">#FF121211</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark launch background, so there is no white flash before Compose draws. -->
+    <style name="Theme.SimpleInsta" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/simpleinsta_bg_dark</item>
+        <item name="android:statusBarColor">@color/simpleinsta_bg_dark</item>
+        <item name="android:navigationBarColor">@color/simpleinsta_bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
