@@ -2,7 +2,7 @@
 
 **Instagram, but without doomscrolling.**
 
-A ~1.6 MB Android app that shows you your feed, your messages, and the reels people actually sent you — and then stops. No Explore. No Reels tab. No doomscrolling.
+A ~1.6 MB Android app that shows you your feed, your messages, and the reels people actually sent you. No Explore. No Reels tab. No doomscrolling.
 
 > **Note: this is still in debug phase and bugs may be encountered.**
 
